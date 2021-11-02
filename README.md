@@ -5,7 +5,7 @@
   <br>
 average computer enjoyer :trollface:
 
-be sure to check my newest hottest product, ![RainbowTaskbar](https://ad2017.dev/rnb)
+be sure to check my newest hottest product, [RainbowTaskbar](https://ad2017.dev/rnb)
 
 you can find me at :
 <div align="center">
