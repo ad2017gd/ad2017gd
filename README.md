@@ -3,7 +3,7 @@
 <img src="https://avatars.githubusercontent.com/u/39013925?v=4" width="120" height="120">
 <br>
   <br>
-average computer enjoyer :trollface:
+i make stuff
 
 be sure to check my newest hottest product, [RainbowTaskbar](https://ad2017.dev/rnb)
 
