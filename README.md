@@ -7,6 +7,11 @@ i make stuff
 
 be sure to check my newest hottest product, [RainbowTaskbar](https://ad2017.dev/rnb)
 
+![](https://github-readme-stats.vercel.app/api?username=ad2017gd&show_icons=true&theme=transparent)
+  
+  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ad2017gd&show_icons=true&theme=transparent)
+  
 you can find me at :
 <div align="center">
                 <a href="https://ad2017.dev/youtube"><img width="58" src="https://ad2017.dev/assets/youtube.png"></a>
