@@ -5,7 +5,7 @@
   <br>
 i make stuff
 
-be sure to check my newest hottest product, [RainbowTaskbar](https://ad2017.dev/rnb)
+be sure to check my newest hottest product, [RainbowTaskbar](https://rnb.ad2017.dev/)
 
 ![](https://github-readme-stats.vercel.app/api?username=ad2017gd&show_icons=true&theme=transparent)
   
